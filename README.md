@@ -24,6 +24,12 @@ It allows users to browse daily essentials, add to cart, choose delivery address
 - 📜 View Orders of All Customers
 - 🧊 Modern UI with analytics scope
 
+Note: The Seller Dashboard is protected and not linked publicly in the UI.
+
+To access the seller/admin controls, use the direct route:
+
+`https://grocy-now.vercel.app/seller`
+
 ---
 
 ## ⚙️ Tech Stack
